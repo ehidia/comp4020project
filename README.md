@@ -30,3 +30,5 @@ We suggest that you begin by typing:
 Happy hacking!
 
 For this project you'll need node and yarn, as well as at least Android Studio
+
+to get all packages configured, just run 'yarn' in the GPAPlanner directory
